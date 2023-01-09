@@ -1,0 +1,55 @@
+[
+  {
+    "valor_total": 818,
+    "valor_saldo": 500,
+    "id_pedido": 2,
+    "itens": [
+      {
+        "número_item": 2,
+        "saldo_qtde": 25
+      }
+    ]
+  },
+  {
+    "valor_total": 2667,
+    "valor_saldo": 413,
+    "id_pedido": 3,
+    "itens": [
+      {
+        "número_item": 1,
+        "saldo_qtde": 27
+      },
+      {
+        "número_item": 2,
+        "saldo_qtde": 4
+      },
+      {
+        "número_item": 3,
+        "saldo_qtde": 5
+      }
+    ]
+  },
+  {
+    "valor_total": 2400,
+    "valor_saldo": 555.9,
+    "id_pedido": 5,
+    "itens": [
+      {
+        "número_item": 1,
+        "saldo_qtde": 3
+      },
+      {
+        "número_item": 2,
+        "saldo_qtde": 15
+      },
+      {
+        "número_item": 4,
+        "saldo_qtde": 9
+      },
+      {
+        "número_item": 6,
+        "saldo_qtde": 1
+      }
+    ]
+  }
+]
